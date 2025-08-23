@@ -10,17 +10,17 @@ Her takım kendi dizininde raporlarını oluşturmuş ve eklemiştir.
 ```
 .
 ├── Team-1/
-│   └── rapor.md
+│   └── rapor.pdf
 ├── Team-2/
-│   └── rapor.md
+│   └── rapor.pdf
 ├── Team-3/
-│   └── rapor.md
+│   └── rapor.pdf
 ├── Team-4/
-│   └── rapor.md
+│   └── rapor.pdf
 ├── Team-5/
-│   └── rapor.md
+│   └── rapor.pdf
 ├── Team-6/
-│   └── rapor.md
+│   └── rapor.pdf
 └── README.md
 ```
 
