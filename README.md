@@ -65,7 +65,7 @@ Her takım kendi klasöründe IoTGoat firmware test raporlarını yayınlayacakt
 ## 📌 Katkı Kuralları
 
 * Her takım sadece **kendi klasöründe** güncelleme yapabilir.
-* Raporlar `rapor.md` formatında Markdown kullanılarak yazılmalıdır.
+* Raporlar `rapor.pdf` dosya olarak paylaşılmalıdır.
 * Teknik detaylar (zafiyet bulguları, PoC çıktıları, çözüm önerileri vb.) eklenmelidir.
 
 ---
