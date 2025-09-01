@@ -33,7 +33,7 @@ Her takım kendi klasöründe IoTGoat firmware test raporlarını yayınlayacakt
 ### 🔹 Team 1
 
 * Emin Baş - (https://www.linkedin.com/in/eminbas/)
-* Ad Soyad – [LinkedIn](https://linkedin.com/in/username)
+* Hasan Ülker - (https://www.linkedin.com/in/hasan-%C3%BClker-b1082b322/)
 
 ### 🔹 Team 2
 
