@@ -42,7 +42,7 @@ Her takım kendi klasöründe IoTGoat firmware test raporlarını yayınlayacakt
 
 ### 🔹 Team 3
 
-* Ad Soyad – [LinkedIn](https://linkedin.com/in/username)
+* Ömer Kaan Kurt – [LinkedIn](https://www.linkedin.com/in/omer-kaan-kurt/)
 * Ad Soyad – [LinkedIn](https://linkedin.com/in/username)
 
 ### 🔹 Team 4
