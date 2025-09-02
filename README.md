@@ -37,8 +37,9 @@ Her takım kendi klasöründe IoTGoat firmware test raporlarını yayınlayacakt
 
 ### 🔹 Team 2
 
-* Ad Soyad – [LinkedIn](https://linkedin.com/in/username)
-* Ad Soyad – [LinkedIn](https://linkedin.com/in/username)
+* Aybüke Canöz – (https://linkedin.com/in/aybüke-cnz)
+* Sudenur Karakin – (https://www.linkedin.com/in/sudenurkarakin/?trk=contact-info))
+* Zahraa AL-Tekreeti - (https://www.linkedin.com/in/zahraa-al-tekreeti-13434922a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### 🔹 Team 3
 
