@@ -44,6 +44,7 @@ Her takım kendi klasöründe IoTGoat firmware test raporlarını yayınlayacakt
 ### 🔹 Team 3
 
 * Ömer Kaan Kurt – [LinkedIn](https://www.linkedin.com/in/omer-kaan-kurt/)
+* Semih Berkan Okutan - (www.linkedin.com/in/semih-berkan-okutan)
 
 ### 🔹 Team 4
 
